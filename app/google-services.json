@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "845794032163",
+    "project_id": "facelogin-aedb2",
+    "storage_bucket": "facelogin-aedb2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845794032163:android:92324c1bf6cfd9cf77cf96",
+        "android_client_info": {
+          "package_name": "com.hansoft.facelogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "845794032163-pv5p2jkrgcsjn3067kpmie2rv9lndjah.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWeiH0hgyCgPTV5SOB64zEgDQyHFI8ewc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "845794032163-pv5p2jkrgcsjn3067kpmie2rv9lndjah.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
